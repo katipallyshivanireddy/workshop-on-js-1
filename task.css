@@ -1,0 +1,41 @@
+button{
+border:none;
+}
+body{
+/* background-color: white; */
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-top: 350px;
+gap:30px;
+transition: 0.5sec;
+}
+.one:hover{
+    background-color: skyblue;
+}
+.two:hover{
+    background-color: lightgreen;
+}
+.three:hover{
+    background-color:lightcoral;
+}
+.four:hover{
+    background-color: lightseagreen;
+}
+.five:hover{
+    background-color: yellowgreen;
+}
+.six:hover{
+    background-color:lightslategray;
+}
+.seven:hover{
+    background-color: lightpink;
+}
+.eight:hover{
+    background-color:goldenrod;}
+.nine:hover{
+    background-color: gray;
+}
+.ten:hover{
+    background-color: hotpink;
+}
